@@ -5,10 +5,10 @@
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h">
+  <a href="https://whatsapp.com/channel/0029Vask3LGKbYMQUrXvEM1C">
     <img alt=Support height="390" src="https://i.ibb.co/gTPG9WF/dca092a4ec1e6208f8dd16a413ef3dda.jpg"> 
     </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+TOJI-MD+MADE+BY+KING+JOHAN" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+TOJI-MD+MADE+BY+TECH+LONER" alt="Typing SVG" /></a>
 ***BOT FEATURES ♻️***
 
 | Menu ⁠➜ | Bot | Group | Search | Download | Tools | Ai | Game | Fun | Owner | Bug | Convert | List |
@@ -18,7 +18,7 @@
 ## `INSTALATION` 
 1. Fork the repo
     <br>
-<a href='https://github.com/Johanlieb34/TojiMd/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Lonely-loner/TojiMd/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 2. Get session id by Pairing Code remember to put creds on session folder
     <br>
 <a href='https://silva-creds.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
@@ -36,8 +36,8 @@
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349134457509"><img src="https://img.shields.io/badge/Contact KING JOHAN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/256757582170"><img src="https://img.shields.io/badge/Contact KING JOHAN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029Vask3LGKbYMQUrXvEM1C"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://github.com/Toxic1239/followers"><img title="Followers" src="https://img.shields.io/github/followers/Johanlieb34?color=blue&style=flat-square"></a>
 <a href="https://github.com/Toxic1239/Queen-RiasV3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Johanlieb34/TojiMd?color=red&style=flat-square"></a>
 <a href="https://github.com/Toxic1239/Queen-RiasV3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Johanlieb34/TojiMd?label=Watchers&color=yellow&style=flat-square"></a>
