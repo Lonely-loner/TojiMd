@@ -30,7 +30,7 @@
     <br>
 <a href='https://dashboard.katabump.com/auth/login#c0a726' target="_blank"><img alt='Render' src='https://img.shields.io/badge/DEPLOY-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 ## 🍼 `BOT OWNER` 
-<a href="https://github.com/Johanlieb34"><img src="https://github.com/Johanlieb34.png" width="250" height="250" alt="Salman Ahmad"/></a>
+<a href="https://github.com/Johanlieb34"><img src="https://github.com/Johanlieb34.png" width="250" height="250" alt="Benjamin Loner"/></a>
 ## , ```CONTACT ME ON WHATSAPP```
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
